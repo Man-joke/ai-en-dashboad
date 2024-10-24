@@ -1,1 +1,0 @@
-import{_ as t,t as s,L as _,A as c,x as e}from"./CHwUt4xx.js";import{V as o}from"./SA3BF436.js";const n={},a=e("div",{class:"inner_title"},[e("h3",{class:"bullet"},"큐리가 칭찬한 표현 컨텐츠 스토리보드에 없습니다.")],-1);function r(l,i){return s(),_(o,null,{default:c(()=>[a]),_:1})}const m=t(n,[["render",r]]);export{m as _};
